@@ -6,13 +6,13 @@ Below, some information to run the script.
 
 ---
 
-####To run, execute:
+##To run, execute:
 ```
 $ python reader.py ["file-name-argument"]
 ```
 ---
 
-####Examples, with the image files of this repository:
+##Examples, with the image files of this repository:
 ```
 $ python reader.py "images\phrase.jpg"
 ```
